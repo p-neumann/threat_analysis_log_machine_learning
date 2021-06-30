@@ -9,4 +9,4 @@ The objectives of this project are:
 - Propose any hypothesis and test using selected features.
 - Build machine learning models to predict user behaviors, including but not limited to signup, churn, etc.
 - Identify user behaviors based on the AI/ML-based predictive models.
-<img src="polynormal2.png">
+<img src="polynomial2.png">
